@@ -65,12 +65,15 @@ We set the months we would like to rebalance to the start of each quarter:
  `
  
 Running the backtest and comparing to SPY we get the following results.
-###Results:
+
+Results
+-----------------
 
 ![Screenshot](DollarPortfolioVal.png)
 ![Screenshot](PortfolioReturns.png)
 
-###Statistics:
+Statistics
+-----------------
 
 ```
 Final Portfolio Value: $178239.86999999997
